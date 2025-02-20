@@ -1,0 +1,54 @@
+# Archivos de compilación y temporales de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de configuración de entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.venv-*/ 
+
+# Archivos generados por el entorno de desarrollo
+.idea/
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos locales
+*.sqlite3
+*.db
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Python Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Archivos de documentación generados
+docs/_build/
+*.rst
+*.md
+
+# Archivos de credenciales sensibles
+*.env
+*.json
+*.ini
+
+# Archivos de imagen, si no deseas que se suban
+*.jpg
+*.jpeg
+*.gif
+
+# Otros archivos ignorados
+*.bak
+*.swp
+*.tmp
