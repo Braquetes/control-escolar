@@ -36,8 +36,6 @@ eggs/
 # Archivos de documentación generados
 docs/_build/
 *.rst
-*.md
-
 # Archivos de credenciales sensibles
 *.env
 *.json
